@@ -19,7 +19,7 @@ int binarySearch(int arr[], int l, int r, int key)
 
 int main(void)
 {
-    int arr[] = { 2, 3, 4, 10, 40 };
+    int arr[] = { 2, 3, 4,7,8, 10,23,34, 40,56,76,89 };
     int n = sizeof(arr) / sizeof(arr[0]);
     int x;
     cout<<"enter x: ";
